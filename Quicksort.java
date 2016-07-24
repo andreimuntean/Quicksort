@@ -80,9 +80,9 @@ public class Quicksort
     }
 
     /**
-     * Sorts a list in ascending order.
+     * Sorts a list of integers in ascending order.
      *
-     * @param list A list.
+     * @param list A list of integers.
      */
     public static void sort(List<Integer> list)
     {
