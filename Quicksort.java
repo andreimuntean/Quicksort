@@ -106,7 +106,7 @@ public class Quicksort
 
             for (int value : list)
             {
-                System.out.printf("%s ", value);
+                System.out.printf("%d ", value);
             }
 
             System.out.println();
